@@ -3,7 +3,7 @@
 
 This is my **personal portfolio** built using **React 19**, **TypeScript**, **Tailwind CSS**, and **Vite**. It presents my skills, experience, education, and contact info through a clean and responsive single-page site — hosted on **Vercel**.
 
-🔗 **Live URL**: [https://mywebpage.vercel.app](https://mywebpage.vercel.app](https://my-web-page-ruby.vercel.app/)
+🔗 **Live URL**: [https://mywebpage.vercel.app](https://my-web-page-ruby.vercel.app/)
 
 ---
 
