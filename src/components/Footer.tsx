@@ -24,7 +24,7 @@ export default function Footer() {
             className="mb-6 md:mb-0"
           >
             <a href="#home" className="text-2xl font-bold text-indigo-400">
-              <span className="text-3xl mr-1">R</span><span className="text-white">{personalInfo.name.split(' ')[1]}</span>
+              <span className="text-3xl mr-1">Rahul</span><span className="text-white">{personalInfo.name.split(' ')[1]}</span>
             </a>
             <p className="text-gray-400 mt-2 max-w-md">
               Full Stack Developer with expertise in Java and React, building responsive and efficient web applications.
